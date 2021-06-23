@@ -1,0 +1,33 @@
+#intro{
+    padding: 80px 0;
+}
+
+#intro img{
+    border-radius: 100%;
+    /* max-width: 100%; */
+    width: 100px;
+}
+
+#intro h3{
+    margin-bottom: 70px;
+    font-size: 32px;
+}
+
+
+#intro h5{
+    margin-top: 22px;
+    font-size: 16px;
+}
+
+#intro .lead{ 
+    font-size: 1.25rem;
+    font-family: 'Open Sans', sans-serif;
+    color: #000000;
+    line-height: 31px;
+}
+
+#intro p{
+    font-size: 16px;
+    line-height: 26px;
+    color: #707070;
+}

@@ -1,0 +1,18 @@
+#email_contact{
+    padding: 80px 0;
+}
+#email_contact p{
+    margin-top: 40px;
+}
+#email_contact .btn{
+    margin-top: 10px;
+    font-size: 16px;
+    border: none;
+    background-color: #ccc;
+    padding: 7px 28px;
+    border-radius: 20px;
+}
+
+#email_contact .btn:hover{
+    opacity: 0.8;
+}

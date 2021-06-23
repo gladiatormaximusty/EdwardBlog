@@ -1,0 +1,12 @@
+#banner {    
+    background: url('../pictures/banner.jpg') ;
+    background-size: cover;
+    height: 80vh;
+    color: white;
+}
+
+#banner .container{
+    position: relative;
+    top: 50%;
+    transform: translate(0,-50%);
+}
